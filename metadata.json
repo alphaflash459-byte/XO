@@ -1,0 +1,6 @@
+{
+  "name": "Gomoku X & O Game",
+  "description": "An interactive digital Gomoku (X & O) game supporting PVP, Player vs AI, and AI vs AI modes with intelligent decision-making, infinite or fixed board sizes, and a beautiful sleek interface in Khmer language.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
